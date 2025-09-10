@@ -4,8 +4,9 @@
   "description": "backend for learn spehere",
   "main": "app.ts",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node app",
+    "dev": "nodemon app.js",
+    "vercel-start": "node app.js"
   },
   "author": "Arpan Sarkar",
   "license": "ISC",
